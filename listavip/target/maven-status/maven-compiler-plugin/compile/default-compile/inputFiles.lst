@@ -1,4 +1,5 @@
-/home/cyborg/java/workspace/listavip/src/main/java/br/com/alura/listavip/repository/ConvidadoRepository.java
-/home/cyborg/java/workspace/listavip/src/main/java/br/com/alura/listavip/ConvidadoController.java
-/home/cyborg/java/workspace/listavip/src/main/java/br/com/alura/listavip/model/Convidado.java
-/home/cyborg/java/workspace/listavip/src/main/java/br/com/alura/listavip/Configuracao.java
+/root/workspace/spring-boot/listavip/src/main/java/br/com/alura/listavip/Configuracao.java
+/root/workspace/spring-boot/listavip/src/main/java/br/com/alura/listavip/service/ConvidadoService.java
+/root/workspace/spring-boot/listavip/src/main/java/br/com/alura/listavip/repository/ConvidadoRepository.java
+/root/workspace/spring-boot/listavip/src/main/java/br/com/alura/listavip/ConvidadoController.java
+/root/workspace/spring-boot/listavip/src/main/java/br/com/alura/listavip/model/Convidado.java
